@@ -6,7 +6,7 @@ Early detection of liver disease can substantially improve patient outcomes. Thi
 
 **ML Model Type**: Supervised 
 
-**Algorithm**: Logistic Regression 
+**Algorithm**: Logistic Regression (60.95% AUC)
 
 **Hyperparameter Tuning Tool**: Grid Search
 
